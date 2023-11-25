@@ -6,6 +6,7 @@ Movie app created in flutter having features:
 4: Fetching data by API from TMDB
 5: Saving the data in local storage using shared_preference in flutter
 6: Managing the state using set state
+There is also an apk file generated for android. 
 #SreenShots
 ![image](https://github.com/AliShanASA/Movie_App_In_Flutter/assets/142229789/922c91dc-db99-4a16-a732-b004fda21b1a)
 ![image](https://github.com/AliShanASA/Movie_App_In_Flutter/assets/142229789/3ed38a5d-df78-4470-aca9-6a79304556d3)
